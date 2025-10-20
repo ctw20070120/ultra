@@ -13,7 +13,7 @@ int main(){
         printf("C\n");
     }else if(score>=60 && score<=69){
         printf("D\n");
-    }else if(score>=0 && score<=69){
+    }else if(score>=0 && score<=60){
         printf("E\n");
     }else{
         printf("成绩无效");
